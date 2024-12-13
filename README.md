@@ -1,7 +1,7 @@
 # Disney+ Hotstar Data Analysis
 
 ---
-
+ 
 ## Introduction
 
 **Disney+ Hotstar** is an online video streaming platform owned by Novi Digital Entertainment Private Limited, a wholly owned subsidiary of Star India Private Limited. It offers:
