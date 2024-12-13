@@ -106,7 +106,7 @@
 
 - An interactive dashboard summarizing all tasks and key insights.
 
-![Final Dashboard](Images/FinalDashboard.png)
+![Final Dashboard](Images/Dashboard.png)
 
 ---
 
