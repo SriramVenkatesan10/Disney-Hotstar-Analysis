@@ -23,7 +23,7 @@
   - Disney, Pixar, Marvel, and Star Wars titles.
 - Affordable subscription plans attract a diverse audience in India and globally.
 
-![Market Share](path/to/market-share-image.png)
+![Market Share](image.png)
 
 ---
 
