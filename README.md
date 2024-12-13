@@ -110,5 +110,3 @@
 
 ---
 
-**Prepared by:** Sriram V  
-**Batch:** BADM-WD-E-B7
